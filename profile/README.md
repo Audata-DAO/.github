@@ -1,29 +1,65 @@
-# What is Audata?
+<div align="center">
 
-## Audata fuels ML & AI industries with raw audio data.
+# 🎵 AUDATA DAO
+### *Democratizing Audio Data for AI & ML*
 
-Audata brings to life new ideas about audio data collection and use. We are eager to design the system that meets all the needs of the fast-growing AI sector. We focus on audio files containing spontaneous speech, represented as audio messages from Telegram and WhatsApp that any modern user possesses. So we are here to redesign the economy and science of audio data usage with:
+[![Website](https://img.shields.io/badge/🌐_Website-audata.space-blue?style=for-the-badge)](https://audata.space/)
+[![Documentation](https://img.shields.io/badge/📚_Docs-GitBook-orange?style=for-the-badge)](https://audata.gitbook.io/audata-docs)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-@audatadao-1DA1F2?style=for-the-badge)](https://x.com/audatadao)
+[![Discord](https://img.shields.io/badge/💬_Discord-AUDATA-7289DA?style=for-the-badge)](https://discord.com/channels/1153824909806551152/1402731741072068752)
+[![Telegram](https://img.shields.io/badge/📱_Telegram-@audata_dao-26A5E4?style=for-the-badge)](https://t.me/audata_dao)
 
-**• All data** [**encrypted and user-owned**](../tech-we-use/file-storage)**.**
-\
-**• All data** [**structured**](../tech-we-use/file-storage) **properly for ML purposes.**
-\
-**• All data** [**proven**](../tech-we-use/proof-of-contribution) **to be live and non-generated.**
-\
-**• All data content** [**kept unrevealed**](../tech-we-use/file-storage) **even while it is used.**
+---
 
-The industry is struggling to get new data for its [models, voice assistants, studies, etc](audata-utility). People are rarely ready to give their private data away, especially their voice messages where private topics might be discussed. We believe these four pillars will change everything.
+*Fueling ML & AI industries with secure, privacy-first audio data*
 
-### What have we done so far?
+</div>
 
-Recently, we've completed our Telegram Bot and Telegram MiniApp, and now we are polishing both to create a more user-friendly UI and to optimize the file upload function. We have also implemented unique logic for audio file modification by adapting VANA's template for the verification process. Check [Project Structure](project-structure) to get links to all the parts we've already built.&#x20;
+## 🚀 What is Audata?
 
-### What are we going to do next?
+Audata is revolutionizing how the AI/ML industry accesses audio data. We're solving the critical shortage of diverse, high-quality audio datasets while ensuring **complete user privacy** and **data ownership**.
 
-First of all, we are going to complete all the elements that are vital for the system to function. Check the project structure to read about them. Next, we are going to deploy our token. And then everything just starts... Community, small hackathons, university and startup collaborations, ML Labs to use our raw data for your own projects in just two clicks... Check [our roadmap](roadmap) to read about all of it!
+### 🔐 **The Privacy-First Solution**
+- ✅ **User-side encryption** - Your data never leaves your control
+- ✅ **Content remains unrevealed** - Even during ML training
+- ✅ **Blockchain-secured ownership** - Built on VANA blockchain
+- ✅ **Zero-knowledge access** - AI learns without listening
 
+## 🎯 Why Audata Matters
 
+<table>
+<tr>
+<td width="50%">
 
+### 📊 **Industry Challenges**
+- Lack of diverse audio data globally
+- Limited representation from Africa, South America, Southeast Asia
+- Most data from formal sources (audiobooks, TV, radio)
+- Missing emotional and spontaneous speech patterns
 
+</td>
+<td width="50%">
 
+### 🌍 **Our Impact Areas**
+- 🗣️ **Speech Recognition** - Better voice assistants
+- 🏥 **Healthcare** - Disease detection research
+- 🎮 **Entertainment** - Realistic voice synthesis
+- 🔒 **Security** - Voice biometrics
+- 💭 **Emotion Detection** - Mental health applications
+- 🔬 **Linguistics** - Language diversity research
 
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack & Architecture
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[📱 Telegram MiniApp] --> B[🔐 VANA Blockchain]
+    B --> C[☁️ Storj Storage]
+    C --> D[🤖 ML/AI Training]
+    E[📊 Proof of Contribution] --> B
+    F[💰 $AUDATA Token] --> B
